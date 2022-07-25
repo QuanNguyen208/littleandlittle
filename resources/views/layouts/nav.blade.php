@@ -1,6 +1,6 @@
 <nav class="navigation">
     
-  <div>
+  <div class="">
       <img src="/images/Vector 2.png" class="Vector2">
       <img src="/images/Little & Little Logo (ngang) 1.png" class="navbar-brand">
 
@@ -10,7 +10,7 @@
         <ul class="Frame20">
           <li class="homeBox"><a href="{{route('app')}}"> Trang chủ </a></li>
           <li><a href="{{route('event')}}"> Sự kiện</a></li>
-          <li><a href="#"> Liên hệ</a></li>
+          <li><a href="{{route('contact')}}"> Liên hệ</a></li>
         </ul>
       </div>
 

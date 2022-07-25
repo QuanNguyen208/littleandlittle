@@ -3,9 +3,11 @@
 
 <div class="bodyframe">
 
+
 <img src="/images/sukiennoibat.png" class="sukiennoibat">
 
-
+<img src="/images/previous btn.png" class="previousbtn">
+<img src="/images/next btn.png" class="nextbtn">
 
 <div class="event1">
 
@@ -93,6 +95,9 @@
 			</div>
 	</div>
 </div>
+
+
+
 
 
 </div>

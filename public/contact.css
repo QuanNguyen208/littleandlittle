@@ -1,0 +1,381 @@
+.alex{
+	/* Alex_AR_Lay_Do shadow 1 */
+
+
+position: absolute;
+width: 364px;
+height: 594px;
+left: -25px;
+top: 347px;
+
+background: url(Alex_AR_Lay_Do shadow.png);
+
+}
+.lienhe{
+	/* Liên hệ */
+
+
+position: absolute;
+width: 328px;
+height: 100px;
+left: 796px;
+top: 144px;
+
+/* Header */
+
+font-family: 'iCiel Koni';
+font-style: normal;
+font-weight: 900;
+font-size: 96px;
+line-height: 100px;
+/* identical to box height, or 104% */
+
+
+/* W */
+
+color: #FFFFFF;
+}
+.FrameContact{
+	/* Frame */
+
+
+position: absolute;
+width: 1520px;
+height: 647px;
+left: 286px;
+top: 293px;
+}
+.dienthoai{
+	/* điện thoại */
+
+
+position: absolute;
+width: 539px;
+height: 205px;
+left: 980px;
+top: 441px;
+
+}
+.Frame39{
+	/* Frame 39 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 231px;
+height: 63px;
+left: 49px;
+top: 60px;
+
+}
+.diachimail{
+	/* địa chỉ */
+
+
+position: absolute;
+width: 539px;
+height: 205px;
+left: 980px;
+top: 220px;
+
+
+}
+.Frame37{
+	/* Frame 37 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 244px;
+height: 63px;
+left: 134px;
+top: 66px;
+}
+.Mailinbox{
+	/* mail-inbox-app 1 */
+
+
+position: absolute;
+left: 8.91%;
+right: 79.59%;
+top: 29.27%;
+bottom: 40.49%;
+}
+.diachi{
+	/* địa chỉ */
+
+
+position: absolute;
+width: 539px;
+height: 207px;
+left: 980px;
+top: 0px;
+}
+.Frame36{
+	/* Frame 36 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 358px;
+height: 89px;
+left: 134px;
+top: 48px;
+
+}
+.adress1{
+	/* adress 1 */
+
+
+position: absolute;
+left: 8.91%;
+right: 79.59%;
+top: 24.64%;
+bottom: 45.41%;
+
+}
+.groupcontact2{
+	/* Group */
+
+
+position: absolute;
+left: 0%;
+right: 37.5%;
+top: 0%;
+bottom: 0.15%;
+}
+.Frame35 {
+	/* Frame 35 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 808px;
+height: 138px;
+left: 68px;
+top: 159px;
+
+}
+.loremcontact{
+	/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac mollis justo. Etiam volutpat tellus quis risus volutpat, ut posuere ex facilisis. */
+
+
+position: absolute;
+left: 4.47%;
+right: 10.92%;
+top: 9.89%;
+bottom: 80.83%;
+
+/* 20 medium */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+
+
+/* Text */
+
+color: #23221F;
+
+opacity: 0.7;
+}
+.FrameName{
+	/* Frame 5 */
+
+
+width: 293px;
+height: 56px;
+
+/* W */
+
+background: #FFFFFF;
+/* inner shadow */
+
+box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+border-radius: 16px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.FramePhoneNu{
+	/* Frame 9 */
+
+
+width: 293px;
+height: 56px;
+top : 50px;
+left : 20px;
+
+/* W */
+
+background: #FFFFFF;
+/* inner shadow */
+
+box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+border-radius: 16px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.Frame33{
+	/* Frame 33 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 293px;
+height: 136px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.FrameEmail{
+width: 491px;
+height: 56px;
+top : 50px;
+left : 20px;
+/* W */
+
+background: #FFFFFF;
+/* inner shadow */
+
+box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+border-radius: 16px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.FrameAddress{
+	/* Frame 10 */
+
+
+width: 491px;
+height: 58px;
+left: 220px;
+top:70px;
+
+/* W */
+
+background: #FFFFFF;
+/* inner shadow */
+
+box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+border-radius: 16px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.FrameNote{
+	/* Frame 11 */
+
+
+position: absolute;
+width: 808px;
+height: 152px;
+
+top: 145px;
+
+/* W */
+
+background: #FFFFFF;
+/* inner shadow */
+
+box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+border-radius: 16px;
+}
+.loinhan{
+	/* Lời nhắn */
+
+
+position: absolute;
+width: 80px;
+height: 26px;
+left: 16px;
+top: 11px;
+
+/* 18 medium */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+
+/* Ultimate Gray */
+
+color: #989A9C;
+}
+.Frame34{
+	/* Auto layout */
+
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	padding: 0px;
+	gap: 24px;
+
+	width: 491px;
+	height: 138px;
+
+
+	/* Inside auto layout */
+
+	flex: none;
+	order: 1;
+	flex-grow: 0;
+}

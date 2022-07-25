@@ -27,6 +27,7 @@ li {
     top: 1px;
   }
   .Vector2{
+    position: absolute;
     width: 1924.5px;
     height: 122.46px;
     left: 0px;
@@ -191,10 +192,10 @@ li {
   }
   .imagebg{
     position: absolute;
-    width: 1784px;
-    height: 961px;
-    left: 75px;
-    top: 70px;
+    width: 1830px;
+    height: 981px;
+    left: 60px;
+    top: 50px;
 
     /* Gradient / bg */
   }

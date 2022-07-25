@@ -20,7 +20,7 @@
     position: absolute;
     width: 356px;
     height: 499px;
-    left: 138px;
+    left: 208px;
     top: 265px;
   }
   
@@ -266,7 +266,7 @@ gap: 28px;
 position: absolute;
 width: 356px;
 height: 499px;
-left: 522px;
+left: 600px;
 top: 265px;
 
   }
@@ -285,7 +285,7 @@ top: 265px;
     position: absolute;
     width: 356px;
     height: 499px;
-    left: 906px;
+    left: 996px;
     top: 265px;
 
   }
@@ -330,7 +330,7 @@ flex-grow: 0;
   position: absolute;
   width: 356px;
   height: 499px;
-  left: 1290px;
+  left: 1390px;
   top: 265px;
 
 }
@@ -378,19 +378,19 @@ color: #FFFFFF;
 .Co1{
   /* Frame */
 position: absolute;
-width: 579px;
-height: 218px;
-left: 1397.17px;
-top: 14.35px;
-
-transform: rotate(9.58deg);
+left: 70.48%;
+right: -1.7%;
+top: 4.61%;
+bottom: -0.16%;
+background-image: url("Co 1.png");
 }
 .Co2{
 position: absolute;
-width: 621px;
-height: 226px;
-left: -54px;
-top: 71px;
+   left: -4.17%;
+   right: 13.17%;
+   top: 8.98%;
+   bottom: -8.04%;
+   transform: matrix(1, -0.09, 0.09, 1, 0, 0);
 
 
 }
@@ -399,7 +399,7 @@ top: 71px;
 
 
 position: absolute;
-left: 94.39%;
+left: 92.39%;
 right: 2.63%;
 top: 47.14%;
 bottom: 47.03%;
@@ -408,7 +408,7 @@ filter: drop-shadow(0px 3px 2px #DE9959);
 }
 .previousbtn{
   position: absolute;
-  left: 2.63%;
+  left: 5.63%;
   right: 94.39%;
   top: 47.14%;
   bottom: 47.03%;

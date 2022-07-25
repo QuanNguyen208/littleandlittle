@@ -18,3 +18,4 @@ Route::get('/event', [App\Http\Controllers\EventController::class, 'index'])->na
 
 Route::get('/app', [App\Http\Controllers\AppController::class, 'index'])->name('app');
 
+Route::get('/contact', [App\Http\Controllers\ContactController::class, 'index'])->name('contact');
