@@ -415,3 +415,219 @@ filter: drop-shadow(0px 3px 2px #DE9959);
 
   filter: drop-shadow(0px 3px 2px #DE9959);
 }
+.groupsukien1{
+  position: absolute;
+left: 0%;
+right: 0.07%;
+top: 0%;
+bottom: 0%;
+
+}
+.khungchuave{
+  /* khung chứa vé */
+
+
+position: absolute;
+width: 1520px;
+height: 654px;
+left: 200px;
+top: 263px;
+
+}
+.tensukien1{
+  /* Sự kiện 1 */
+
+
+position: absolute;
+left: 42.32%;
+right: 42.32%;
+top: 14.84%;
+bottom: 84.08%;
+
+font-family: 'iCiel Koni';
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height: 100px;
+/* or 156% */
+
+display: flex;
+align-items: center;
+
+/* W */
+
+color: #FFFFFF;
+}
+.group4{
+  position: absolute;
+left: 3.82%;
+right: 3.82%;
+top: 11.62%;
+bottom: 14.53%;
+}
+.group5{
+  position: absolute;
+  width: 411px;
+  height: 463px;
+  left: 58px;
+  top: 84px;
+}
+.group6{
+position: absolute;
+width: 288px;
+height: 475px;
+left: 843px;
+top: 84px;
+}
+.group7{
+  /* Group 7 */
+
+
+position: absolute;
+width: 288px;
+height: 475px;
+left: 1174px;
+top: 84px;
+
+}
+.group8{
+  position: absolute;
+  width: 234px;
+  height: 94px;
+  left : 8px;
+  top: 373px;
+}
+.Frame47{
+  /* Frame 47 */
+
+width: 411px;
+height: 337px;
+position: absolute;
+left: 3.82%;
+right: 69.14%;
+top: 12.84%;
+bottom: 35.63%;
+
+}
+.textsukien1{
+  position: absolute;
+left: 33.68%;
+right: 45.37%;
+top: 7.62%;
+bottom: 10.14%;
+
+/* 18 medium */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 28px;
+/* or 150% */
+
+display: flex;
+align-items: center;
+text-align: justify;
+
+}
+.Frame48{
+  /* Frame 48 */
+
+
+position: absolute;
+left: 8.46%;
+right: 20.59%;
+top: 0px;
+bottom: 35.35%;
+width: 288px;
+height: 208px;
+
+border-radius: 10px;
+}
+.loremEvent1{
+position: absolute;
+left: 58.46%;
+right: 25.59%;
+top: 49.69%;
+bottom: 14.53%;
+
+/* 18 medium */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+display: flex;
+align-items: center;
+text-align: justify;
+
+}
+.Frame49{
+  position: absolute;
+  left: 0px;
+  right: 3.82%;
+  top: 53.67%;
+  bottom: 14.53%;
+  width: 288px;
+  height: 208px;
+
+  border-radius: 10px;
+}
+.loremEvent12{
+  position: absolute;
+left: 77.24%;
+right: 3.82%;
+top: 12.84%;
+bottom: 51.38%;
+
+/* 18 medium */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #000000;
+}
+.Co2png{
+  /* Group */
+
+
+position: absolute;
+
+width:530px;
+left : 0px;
+right: 13.17%;
+top: 7.98%;
+bottom: -8.04%;
+
+}
+.Co1png{
+  position: absolute;
+
+width: 451.34px;
+height: 208.29px
+left: 24.26%;
+right: 0.5%;
+top: 4.5%;
+bottom: 10%;
+transform: rotate(-9.58deg);
+
+
+}
+.Conhopng{
+  position: absolute;
+left: 4%;
+right: 0.26%;
+top: 9.24%;
+bottom: 12.77%;
+}

@@ -2,7 +2,7 @@
 @section('body')
 
 <div class="bodyframe">
-
+<img src="/images/co nho.png" class="Conhopng">
 
 <img src="/images/sukiennoibat.png" class="sukiennoibat">
 
@@ -25,7 +25,9 @@
 						<p class="giave1"> 25.000 VNĐ </p>
 
 					</div>
-			<img src="/images/xemchitiet.png" class="giave1box">
+		 <a href="{{route('sukien1')}}">
+		 	<img src="/images/xemchitiet.png" class="giave1box"> 
+		 </a>
 				
 			</div>
 	</div>
@@ -101,4 +103,6 @@
 
 
 </div>
+<img src="/images/Co 2.png" class="Co2png">
+<img src="/images/Co 1.png" class="Co1png">
 @endsection
