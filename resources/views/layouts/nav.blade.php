@@ -16,7 +16,9 @@
 
         <div class="Frame22">
           <div class="Group">
-            <img src="images/Vector (Stroke) .png" class="Frame21">
+            <div class="Frame21">
+              <img src="images/Vector (Stroke) .png" class="Vectorstroke" >
+            </div>
           </div>
           <div class="phoneNumber">
             0123456789

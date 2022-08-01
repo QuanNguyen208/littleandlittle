@@ -4,6 +4,7 @@ use App\Http\Controllers\EventController;
 use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Sukien1Controller;
+use App\Http\Controllers\PaymentController;
 
 
 
@@ -22,3 +23,7 @@ Route::get('/app', [App\Http\Controllers\AppController::class, 'index'])->name('
 Route::get('/contact', [App\Http\Controllers\ContactController::class, 'index'])->name('contact');
 
 Route::get('/sukien1', [App\Http\Controllers\Sukien1Controller::class, 'index'])->name('sukien1');
+
+Route::get('/payment', [App\Http\Controllers\PaymentController::class, 'index'])->name('payment');
+
+Route::get('/success', [App\Http\Controllers\SuccessController::class, 'index'])->name('success');
