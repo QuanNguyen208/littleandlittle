@@ -38,7 +38,7 @@
 		<img src="/images/Rectangle 1.png" class="Rectangle1">
 			<div class="frame31">
 				<div class="frame30">
-					<p class="sukien1">Sự kiện 1 </p>
+					<p class="sukien1">Sự kiện 2 </p>
 					<p class="damsenpark">Đầm sen Park </p>
 
 					<div class="time1">
@@ -47,8 +47,11 @@
 					</div>
 						<p class="giave1"> 25.000 VNĐ </p>
 				</div>
+
+			<a href="{{route('sukien2')}}">
 			<img src="/images/xemchitiet.png" class="giave1box">
-				
+			</a>
+
 			</div>
 		
 	</div>
@@ -70,8 +73,10 @@
 						<p class="giave1"> 50.000 VNĐ </p>
 
 					</div>
+			<a href="{{route('sukien3')}}">
 			<img src="/images/xemchitiet.png" class="giave1box">
-				
+			</a>
+
 			</div>
 	</div>
 </div>
@@ -92,6 +97,7 @@
 						<p class="giave1"> 55.000 VNĐ </p>
 
 					</div>
+			<a href="{{route('sukien4')}}">
 			<img src="/images/xemchitiet.png" class="giave1box">
 				
 			</div>

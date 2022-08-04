@@ -9,6 +9,10 @@
   <link rel="stylesheet" href="event.css">
   <link rel="stylesheet" href="contact.css">
   <link rel="stylesheet" type="text/css" href="thanhtoan.css">
+  <link rel="stylesheet" type="text/css" href="success.css">
+  <link rel="stylesheet" type="text/css" href="sukien2.css">
+  <link rel="stylesheet" type="text/css" href="sukien3.css">
+  <link rel="stylesheet" type="text/css" href="sukien4.css">
   <link rel="icon" href="./favicon.ico" type="image/x-icon">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>

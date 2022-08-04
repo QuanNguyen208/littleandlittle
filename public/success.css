@@ -1,0 +1,86 @@
+.successtext{
+	/* Thanh toán thành công */
+
+
+position: absolute;
+width: 1063px;
+height: 100px;
+left: 429px;
+top: 144px;
+
+/* Header */
+
+font-family: 'iCiel Koni';
+font-style: normal;
+font-weight: 900;
+font-size: 96px;
+line-height: 100px;
+/* identical to box height, or 104% */
+
+
+/* W */
+
+color: #FFFFFF;
+}
+.khungvethanhtoan{
+	position: absolute;
+	width: 1520px;
+	height: 654px;
+	left: 130px;
+	top: 146px;
+
+}
+.btntaive{
+	/* Btn xem chi tiết */
+
+
+position: absolute;
+left: 40.99%;
+right: 50.68%;
+top: 87.32%;
+bottom: 9.06%;
+
+}
+.btnguiemail{
+	/* Btn xem chi tiết */
+
+
+position: absolute;
+left: 50.62%;
+right: 41.04%;
+top: 87.32%;
+bottom: 9.06%;
+
+}
+.alvinarnold{
+	/* Alvin_Arnold_Votay1 1 */
+
+
+position: absolute;
+width: 510px;
+height: 594px;
+left: -175px;
+top: 347px;
+
+background: url(Alvin_Arnold_Votay1.png);
+}
+.grid-container{
+		position: absolute;
+        top: -220px;
+        display: grid;
+        column-gap: 0px;
+        grid-template-columns: auto auto auto auto;
+        padding: 186px;
+        border-radius: 10px 10px 10px 10px;
+}
+.grid-item{
+		padding: 10px;
+        font-size: 30px;
+        border-radius: 10px 10px 10px 10px;
+}
+.grid1{
+        width: 241px;
+        height: 340px;
+        background: #FFFFFF;
+        border-radius: 10px 10px 10px 10px;
+    }

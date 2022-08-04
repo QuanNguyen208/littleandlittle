@@ -1,0 +1,21 @@
+.textsukien2{
+	position: absolute;
+left: 42.32%;
+right: 42.32%;
+top: 10.84%;
+bottom: 84.08%;
+
+font-family: 'iCiel Koni';
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height: 100px;
+/* or 156% */
+
+display: flex;
+align-items: center;
+
+/* W */
+
+color: #FFFFFF;
+}
